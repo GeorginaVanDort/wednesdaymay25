@@ -1,0 +1,18 @@
+p.intro {
+  font-size: 50px;
+}
+
+h2.intro {
+  color: green
+}
+
+h1.intro {
+  font-style: italic;
+}
+
+img.intro {
+  height: 70%;
+  width: 70%;
+  display: block;
+  padding: 10px 0;
+}

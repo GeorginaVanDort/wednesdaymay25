@@ -1,0 +1,26 @@
+.pic {
+  height: auto;
+  width: auto;
+  max-width: 100px;
+  max-height: 500px;
+  display: block;
+  padding: 10px 0;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  height: auto;
+  width: auto;
+  max-width: 900px;
+  max-height: 900px;
+  display: block;
+  padding: 10px 0;
+}
+ .flashier {
+   font-style: oblique;
+   font-size: 45px;
+ }

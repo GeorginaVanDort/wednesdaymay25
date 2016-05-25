@@ -1,0 +1,41 @@
+body {
+  font-family: monospace;
+  font-size: 20px;
+  color: lightblue;
+  background-color: darkslateblue;
+}
+
+
+h1 {
+color: white;
+font-size: 60px;
+}
+
+.animal {
+  width: 300px;
+  float: left;
+  padding: 10px;
+  font-family:sans-serif;
+  }
+
+.animal h2 {
+  font-family: cursive;
+  font-size: 50px;
+}
+
+.animal h3 {
+  font-family: cursive;
+  font-size: 30px;
+  color: black
+
+}
+
+.highlight {
+  text-decoration: underline;
+  font-weight: bolder;
+}
+
+img {
+  max-width: 260px
+  
+}

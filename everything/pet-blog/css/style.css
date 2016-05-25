@@ -1,0 +1,103 @@
+body {
+  text-align: center;
+}
+
+/* =============================
+HEADER
+================================ */
+
+h1 {
+  font-family: monospace;
+  font-size: 90px;
+  color: #ff6666;
+}
+
+h2 {
+  font-family: monospace;
+  font-size: 40px;
+  color: #ff6600;
+}
+
+/* =============================
+BODY Styles
+================================ */
+p {
+font-family: 'Sacramento', cursive;
+font-size: 40px;
+color: #147D7D;
+}
+
+a {
+  color: #ff6600;
+  text-decoration: none;
+}
+
+ul {
+  font-family: monospace;
+  color: #ff6666;
+  font-size: 20px;
+  font-weight: bolder;
+  text-align: left;
+}
+ul li {
+  font-family: monospace;
+  color: #ff6666;
+  font-size: 20px;
+  font-weight: normal;
+
+}
+
+ol {
+  font-family: monospace;
+  color: #00aa00;
+  font-size: 20px;
+  font-weight: bolder;
+  text-align: left;
+}
+
+ol li {
+  font-family: monospace;
+  color: #00aa00;
+  font-size: 20px;
+  font-weight: normal;
+}
+
+span {
+  font-size: 30px;
+  font-weight:bolder;
+  font-style: italic;
+  color: #ff6666;
+}
+
+/* =============================
+Layout
+================================ */
+
+
+h1 {
+  text-align: center;
+}
+
+#hair {
+  margin:auto;
+  border-radius: 25%;
+}
+
+#yawn {
+  height: 600px;
+  width: 600px;
+  margin:auto;
+  border-radius: 25%;
+  padding-top: 20px;
+}
+
+
+p.otherhalf {
+  font-size: 75px;
+}
+
+div.otherhalf {
+  max-width: 100px;
+  text-align: center;
+  margin:auto;
+}

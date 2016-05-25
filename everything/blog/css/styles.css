@@ -1,0 +1,19 @@
+.type1 {
+  font-style: italic;
+  font-family: monospace;
+  background-color: #0B2933;
+  color: white
+}
+
+.type2 {
+  color: blue;
+  font-size: 20px;
+  background-color: yellow
+}
+
+.type3 {
+  color: grey;
+}
+#home {
+  background-image:url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYPAodADUtD8DOVvCyNY-YM8s5I1bTT6ZFAqPOEXL5OV71uN-c);
+}
