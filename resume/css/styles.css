@@ -1,0 +1,19 @@
+h2.type1 {
+  font-size: 30px
+}
+
+ul.type1 {
+  color: blue;
+}
+.type2 {
+  font-size: 110%;
+  color: red
+
+  }
+div.type1 {
+  width: 200px;
+  float: left;
+}
+img.type3 {
+  float: left;
+}
