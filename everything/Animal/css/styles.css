@@ -37,5 +37,14 @@ font-size: 60px;
 
 img {
   max-width: 260px
-  
+
+}
+@media screen and (max-width: 720px) {
+  body {
+    background: red;
+  }
+}
+
+.topcolumn {
+  max-width: 1200px
 }
